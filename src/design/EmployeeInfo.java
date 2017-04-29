@@ -1,6 +1,6 @@
 package design;
 
-public class EmployeeInfo{
+public class EmployeeInfo extends FullTimeEmployee implements Employee {
 	
  /*This class can be implemented from Employee interface then add additional methods in EmployeeInfo class.
  * Also, Employee interface can be implemented into an abstract class.So create an Abstract class
@@ -16,25 +16,30 @@ public class EmployeeInfo{
 	/*
 	 * declare few static and final fields and some non-static fields
 	 */
-	static String companyName;
-	
+	static String companyName = "CNN";
+	final int number = 1000;
+	String name;
+	int employeeId;
 	/*
 	 * You must implement the logic for below 2 methods and 
 	 * following 2 methods are prototype as well for other methods need to be design,
 	 * as you will come up with the new ideas.
 	 */
-	
 	/*
 	 * you must have multiple constructor.
 	 * Must implement below constructor.
 	 */
+	public EmployeeInfo(){
+		}
 	public EmployeeInfo(int employeeId){
-		
+
+		this.employeeId = employeeId;
 	}
     public EmployeeInfo(String name, int employeeId){
-		
+		this.name = name;
+		this.employeeId = employeeId;
+		System.out.println("Employee name is " +this.name+" and Id no "+this.employeeId );
 	}
-	
 	/*
 	 * This methods should calculate Employee bonus based on salary and performance.
 	 * Then it will return the total yearly bonus. So you need to implement the logic.
@@ -44,8 +49,10 @@ public class EmployeeInfo{
 	 * 
 	 */
 	public static int calculateEmployeeBonus(){
-		int total=0;
-		return total;
+		double salary= 80000;
+		double performance = 0.08;
+		double totalYarlyBonus= salary * performance;
+		return (int) totalYarlyBonus;
 	}
 	
 	/*
@@ -56,7 +63,39 @@ public class EmployeeInfo{
 	 * 
 	 */
 	public static int calculateEmployeePension(){
-		int total=0;
-		return total;
+		double salary = 75000;
+		int stay =2; ;
+		int totalPension= (int) (salary * 0.10);
+		return totalPension;
+	}
+
+	@Override
+	public double computPay() {
+		int totalPayment = 8700000;
+		return totalPayment;
+	}
+
+	@Override
+	public int employeeId(){
+		int employeeId = 105;
+		return employeeId ;
+	}
+	@Override
+	public String employeeName() {
+		String name = "Micheal Robin";
+		return name;
+	}
+	@Override
+	public void assignDepartment() {
+	}
+	@Override
+	public int calculateSalary() {
+		return 0;
+	}
+	@Override
+	public void benefitLayout() {
+	}
+	@Override
+	public void employeeStatus() {
 	}
 }

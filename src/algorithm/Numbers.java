@@ -1,5 +1,6 @@
 package algorithm;
 import java.util.Random;
+import algorithm.Sort;
 
 /*
  *Created by PIIT_NYA on 04/22/2017.
@@ -21,7 +22,6 @@ public class Numbers {
 		for(int i=0; i<num.length; i++){
 			
 		num[i] = rand.nextInt(1000000);
-			
 		}
 
 		//Selection Sort
@@ -36,6 +36,12 @@ public class Numbers {
 		System.out.println("Total Execution Time of " + num.length + " numbers in Insertion Sort take: " + insertionSortExecutionTime + " milli sec");
 
 		//Continue for rest of the Sorting Algorithm....
+		//Buble Sort
+		algo.bubbleSort(num);
+		long bubbleSortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in Insertion Sort take: " + insertionSortExecutionTime + " milli sec");
+
+
 
 	}
 
