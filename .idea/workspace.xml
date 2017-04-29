@@ -2,48 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f87b1c26-1f25-4745-95a9-85b69b3da234" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/MidtermMarch2017.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design/FullTimeEmployee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/algorithm/Numbers.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/algorithm/Numbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/algorithm/Sort.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/algorithm/Sort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/databases/ConnectDB.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/databases/ConnectDB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseArrayList.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseArrayList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseLinkedList.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseMap.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseMap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseQueue.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseStack.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/datastructure/UseStack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/math/Factorial.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/math/Factorial.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/math/FindMissingNumber.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/math/FindMissingNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/math/LowestNumber.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/math/LowestNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/math/Pattern.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/math/Pattern.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/math/PrimeNumber.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/math/PrimeNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/parser/Student.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/parser/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/problems/Anagram.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/problems/Anagram.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/problems/DuplicateWord.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/problems/DuplicateWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/problems/Permutation.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/problems/Permutation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/March2017Exam/reader/DataReader.class" afterPath="$PROJECT_DIR$/out/production/March2017Exam/reader/DataReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseLinkedList.java" afterPath="$PROJECT_DIR$/src/datastructure/UseLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseStack.java" afterPath="$PROJECT_DIR$/src/datastructure/UseStack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/definition/data-structure-questions" afterPath="$PROJECT_DIR$/src/definition/data-structure-questions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/design/CnnEmployee.java" afterPath="$PROJECT_DIR$/src/design/CnnEmployee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/design/Employee.java" afterPath="$PROJECT_DIR$/src/design/Employee.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/Factorial.java" afterPath="$PROJECT_DIR$/src/math/Factorial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/FindMissingNumber.java" afterPath="$PROJECT_DIR$/src/math/FindMissingNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/LowestNumber.java" afterPath="$PROJECT_DIR$/src/math/LowestNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/Pattern.java" afterPath="$PROJECT_DIR$/src/math/Pattern.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/PrimeNumber.java" afterPath="$PROJECT_DIR$/src/math/PrimeNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/Anagram.java" afterPath="$PROJECT_DIR$/src/problems/Anagram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/DuplicateWord.java" afterPath="$PROJECT_DIR$/src/problems/DuplicateWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/Permutation.java" afterPath="$PROJECT_DIR$/src/problems/Permutation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reader/DataReader.java" afterPath="$PROJECT_DIR$/src/reader/DataReader.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,8 +21,18 @@
       <file leaf-file-name="CnnEmployee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design/CnnEmployee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="310">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pattern.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/Pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -78,8 +51,8 @@
       <file leaf-file-name="FullTimeEmployee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design/FullTimeEmployee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -88,9 +61,14 @@
       <file leaf-file-name="EmployeeInfo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design/EmployeeInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="361">
+              <caret line="103" column="55" lean-forward="false" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+              <folding>
+                <element signature="e#2810#2811#0" expanded="true" />
+                <element signature="e#2880#2881#0" expanded="true" />
+                <element signature="e#3233#3234#0" expanded="true" />
+                <element signature="e#3289#3290#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +76,7 @@
       <file leaf-file-name="core-java-conceptual-questions" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
+            <state relative-caret-position="516">
               <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
               <folding />
             </state>
@@ -108,7 +86,7 @@
       <file leaf-file-name="data-structure-questions" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/definition/data-structure-questions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
+            <state relative-caret-position="516">
               <caret line="75" column="34" lean-forward="false" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
               <folding />
             </state>
@@ -118,8 +96,8 @@
       <file leaf-file-name="Numbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="287">
+              <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -128,8 +106,8 @@
       <file leaf-file-name="Sort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="184">
+              <caret line="116" column="28" lean-forward="true" selection-start-line="116" selection-start-column="28" selection-end-line="116" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -143,16 +121,6 @@
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMissingNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/FindMissingNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -193,7 +161,6 @@
         <option value="$PROJECT_DIR$/src/problems/Anagram.java" />
         <option value="$PROJECT_DIR$/src/problems/DuplicateWord.java" />
         <option value="$PROJECT_DIR$/src/datastructure/UseQueue.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/Numbers.java" />
         <option value="$PROJECT_DIR$/src/reader/DataReader.java" />
         <option value="$PROJECT_DIR$/src/math/Pattern.java" />
         <option value="$PROJECT_DIR$/src/math/LowestNumber.java" />
@@ -201,8 +168,9 @@
         <option value="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" />
         <option value="$PROJECT_DIR$/src/design/FullTimeEmployee.java" />
         <option value="$PROJECT_DIR$/src/design/Employee.java" />
-        <option value="$PROJECT_DIR$/src/design/CnnEmployee.java" />
         <option value="$PROJECT_DIR$/src/design/EmployeeInfo.java" />
+        <option value="$PROJECT_DIR$/src/design/CnnEmployee.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Numbers.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Sort.java" />
       </list>
     </option>
@@ -228,7 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,10 +208,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MidtermMarch2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MidtermMarch2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MidtermMarch2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MidtermMarch2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,27 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CnnEmployee">
-    <configuration default="false" name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="datastructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="datastructure.UseMap" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MidtermMarch2017" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Numbers">
     <configuration default="false" name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -355,6 +335,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="design.CnnEmployee" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MidtermMarch2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algorithm.Numbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -572,19 +572,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.UseMap" />
-      <item index="1" class="java.lang.String" itemvalue="Application.UseQueue" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DataReader" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Pattern" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CnnEmployee" />
+      <item index="0" class="java.lang.String" itemvalue="Application.UseQueue" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DataReader" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Pattern" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CnnEmployee" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Numbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CnnEmployee" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Pattern" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DataReader" />
-        <item index="3" class="java.lang.String" itemvalue="Application.UseQueue" />
-        <item index="4" class="java.lang.String" itemvalue="Application.UseMap" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Numbers" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CnnEmployee" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Pattern" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DataReader" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UseQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -603,6 +603,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="20" width="1346" height="688" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -613,13 +614,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29238755" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29238755" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18270677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21353383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -658,7 +659,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29238755" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18270677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1669173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -973,13 +974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/math/FindMissingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -998,22 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/definition/data-structure-questions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="34" lean-forward="false" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/design/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1024,40 +1002,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design/FullTimeEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design/EmployeeInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="361">
+          <caret line="103" column="55" lean-forward="false" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+          <folding>
+            <element signature="e#2810#2811#0" expanded="true" />
+            <element signature="e#2880#2881#0" expanded="true" />
+            <element signature="e#3233#3234#0" expanded="true" />
+            <element signature="e#3289#3290#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design/CnnEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="310">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/definition/data-structure-questions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="75" column="34" lean-forward="false" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="287">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="184">
+          <caret line="116" column="28" lean-forward="true" selection-start-line="116" selection-start-column="28" selection-end-line="116" selection-end-column="28" />
           <folding />
         </state>
       </provider>

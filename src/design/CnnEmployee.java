@@ -16,7 +16,10 @@ public class CnnEmployee {
 	public static void main(String[] args) {
 		System.out.println(" The company name is "+EmployeeInfo.companyName);
 		EmployeeInfo emp = new EmployeeInfo( " Robin", 105);
-
+		emp.employeeStatus();
+		System.out.println("Yarly bonus is "+emp.calculateSalary());
 		System.out.println("Yarly bonus is "+EmployeeInfo.calculateEmployeeBonus());
+		emp.benefitLayout();
+
 	}
 }

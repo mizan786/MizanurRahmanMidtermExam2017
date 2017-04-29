@@ -87,15 +87,20 @@ public class EmployeeInfo extends FullTimeEmployee implements Employee {
 	}
 	@Override
 	public void assignDepartment() {
+		System.out.println("Robin has been assigned to HR department" );
 	}
 	@Override
 	public int calculateSalary() {
-		return 0;
+		int monthlySalary = 8000;
+		int salary = monthlySalary *12;
+		return salary;
 	}
 	@Override
 	public void benefitLayout() {
+		System.out.println("Contributions are matched by the company at 150% is the employee contributes a minimum of 8% of their base salary ");
 	}
 	@Override
 	public void employeeStatus() {
+		System.out.println(" He is a full time employee");
 	}
 }

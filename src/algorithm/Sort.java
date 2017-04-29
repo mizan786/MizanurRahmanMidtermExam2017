@@ -104,15 +104,44 @@ public class Sort {
 
         return list;
     }
+    public static int[] printArray(int[] array){
+        for (int i=0; i <array.length; i++){
+            System.out.print(array[i]+ " ");
+        }
+        System.out.println();
+        return array;
+    }
     
     public int [] shellSort(int [] array){
+        final long startTime = System.currentTimeMillis();
         int [] list = array;
         //implement here
-        
-        
+        int l = array.length;
+        int h = l /3;
+        int passing = 1;
+        while (h>0){
+            for (int i =h; i < l; i++){
+                int temp = array[i], j;
+                for (j=i; j>=h && array[j-h] > temp; j-= h) {
+                    array[j] = array[j - h];
+                }
+                    array[j] = temp;
+                }
+                System.out.println("After passing " + passing+ " ");
+                printArray(array);
+                passing++;
+                h/=2;
+            final long endTime = System.currentTimeMillis();
+            final long executionTime = endTime - startTime;
+            this.executionTime = executionTime;
+            return list;
 
-        return list;
-    }
+            }
+            return list;
+        }
+
+
+
 
     public static void printSortedArray(int [] array){
         for(int i=0; i<array.length; i++){
